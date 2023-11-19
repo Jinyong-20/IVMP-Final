@@ -8,7 +8,7 @@ People give you bullets while you are fighting.
 Be aware of Robot's attack and destroy them.
 
 
-<How to Play>
+How to Play)
   
 wasd : Move
 
