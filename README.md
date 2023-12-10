@@ -89,3 +89,5 @@ Generated with AI
 Antraxx - isometric mech shooter
 
 - Background Image : https://www.pinterest.co.kr/pin/198721402297694529/
+
+- Game Code Guide : https://kidscancode.org/ | Pygame Tutorial #1: Shmup (Space Shooter)
