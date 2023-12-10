@@ -1,4 +1,5 @@
 # IVMP-Final : Boss Challenger
+<story>
 You are a boy in Dystopia world which robots rule human.
 
 You fight against robots with a knife and gun.
